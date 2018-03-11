@@ -1,7 +1,6 @@
 <?php
 /*
-The count() function is used to return the length (the number of elements) of an array:
-
+print_r() function you can use for output the contents of an array for debugging purpose.
 
 */
 
